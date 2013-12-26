@@ -1,0 +1,12 @@
+#post_tweets{
+	margin:20px 0px;
+	background:#4fa1d3;
+	padding:10px;
+	}
+	#post_tweets textarea{
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		margin-bottom:5px;
+		}
+	#post_tweets table{ background:#fff; padding:10px 15px; border:solid 1px #6fa3c4;}
